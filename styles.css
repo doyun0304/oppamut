@@ -48,6 +48,12 @@ body {
     margin-left: 20px;
 }
 
+#profileTable{
+    background-color: #fff;
+    width:100%; 
+    border: 2px solid #43484c;
+}
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -75,6 +81,7 @@ table, th, td {
     text-align: center;
     background-color: gray;
     color: white;
+    font-weight: bold;
 }
 
 .tableContent{
@@ -85,6 +92,7 @@ table, th, td {
 
 .profileImg{
     max-width: 350px;
+    /* width: 50%; */
     display: inline-block;
 }
 
