@@ -12,6 +12,11 @@ body {
     border-bottom: 1.5px solid lightgray;
 }
 
+.board_wrap{
+    max-width: 1000px;
+    margin: 10px auto;
+}
+
 
 #contents:before{
     content: "목차";
